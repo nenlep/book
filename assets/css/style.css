@@ -119,11 +119,15 @@ hr .line{
 }
 .adres{
   padding-top: 10px;
-  line-height: 30px;
+  line-height: 25px;
   align-items: center;
 }
 .short-line{
   width: 40%;
+  color: #E1E8EE;
+}
+.s-line{
+  width: 60%;
   color: #E1E8EE;
 }
 
