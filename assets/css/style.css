@@ -114,6 +114,9 @@ hr .line{
   font-size: 16px;
   font-weight: 300;
 }
+#contact .link:hover{
+  text-decoration: none;
+}
 #contact h4{
   padding-top: 10px;
 }
